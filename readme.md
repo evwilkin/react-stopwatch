@@ -1,4 +1,4 @@
-#React Stopwatch
+#React Stopwatch 
 
 Let's build a stopwatch using React. Feel free to use the Codepen starter template and fork it.
 
